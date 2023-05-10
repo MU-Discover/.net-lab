@@ -1,0 +1,16 @@
+C:\Users\GENERAL STORES\source\repos\Lab14a\Lab14a\bin\Debug\Lab14a.exe.config
+C:\Users\GENERAL STORES\source\repos\Lab14a\Lab14a\bin\Debug\Lab14a.exe
+C:\Users\GENERAL STORES\source\repos\Lab14a\Lab14a\bin\Debug\Lab14a.pdb
+C:\Users\GENERAL STORES\source\repos\Lab14a\Lab14a\obj\Debug\Lab14a.csproj.AssemblyReference.cache
+C:\Users\GENERAL STORES\source\repos\Lab14a\Lab14a\obj\Debug\Lab14a.csproj.SuggestedBindingRedirects.cache
+C:\Users\GENERAL STORES\source\repos\Lab14a\Lab14a\obj\Debug\MainWindow.g.cs
+C:\Users\GENERAL STORES\source\repos\Lab14a\Lab14a\obj\Debug\App.g.cs
+C:\Users\GENERAL STORES\source\repos\Lab14a\Lab14a\obj\Debug\Lab14a_MarkupCompile.cache
+C:\Users\GENERAL STORES\source\repos\Lab14a\Lab14a\obj\Debug\Lab14a_MarkupCompile.lref
+C:\Users\GENERAL STORES\source\repos\Lab14a\Lab14a\obj\Debug\MainWindow.baml
+C:\Users\GENERAL STORES\source\repos\Lab14a\Lab14a\obj\Debug\Lab14a.g.resources
+C:\Users\GENERAL STORES\source\repos\Lab14a\Lab14a\obj\Debug\Lab14a.Properties.Resources.resources
+C:\Users\GENERAL STORES\source\repos\Lab14a\Lab14a\obj\Debug\Lab14a.csproj.GenerateResource.cache
+C:\Users\GENERAL STORES\source\repos\Lab14a\Lab14a\obj\Debug\Lab14a.csproj.CoreCompileInputs.cache
+C:\Users\GENERAL STORES\source\repos\Lab14a\Lab14a\obj\Debug\Lab14a.exe
+C:\Users\GENERAL STORES\source\repos\Lab14a\Lab14a\obj\Debug\Lab14a.pdb

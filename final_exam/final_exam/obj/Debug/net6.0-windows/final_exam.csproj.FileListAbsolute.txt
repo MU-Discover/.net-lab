@@ -1,0 +1,17 @@
+C:\Users\GENERAL STORES\source\repos\final_exam\final_exam\bin\Debug\net6.0-windows\final_exam.exe
+C:\Users\GENERAL STORES\source\repos\final_exam\final_exam\bin\Debug\net6.0-windows\final_exam.deps.json
+C:\Users\GENERAL STORES\source\repos\final_exam\final_exam\bin\Debug\net6.0-windows\final_exam.runtimeconfig.json
+C:\Users\GENERAL STORES\source\repos\final_exam\final_exam\bin\Debug\net6.0-windows\final_exam.dll
+C:\Users\GENERAL STORES\source\repos\final_exam\final_exam\bin\Debug\net6.0-windows\final_exam.pdb
+C:\Users\GENERAL STORES\source\repos\final_exam\final_exam\obj\Debug\net6.0-windows\final_exam.csproj.AssemblyReference.cache
+C:\Users\GENERAL STORES\source\repos\final_exam\final_exam\obj\Debug\net6.0-windows\final_exam.Form1.resources
+C:\Users\GENERAL STORES\source\repos\final_exam\final_exam\obj\Debug\net6.0-windows\final_exam.csproj.GenerateResource.cache
+C:\Users\GENERAL STORES\source\repos\final_exam\final_exam\obj\Debug\net6.0-windows\final_exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GENERAL STORES\source\repos\final_exam\final_exam\obj\Debug\net6.0-windows\final_exam.AssemblyInfoInputs.cache
+C:\Users\GENERAL STORES\source\repos\final_exam\final_exam\obj\Debug\net6.0-windows\final_exam.AssemblyInfo.cs
+C:\Users\GENERAL STORES\source\repos\final_exam\final_exam\obj\Debug\net6.0-windows\final_exam.csproj.CoreCompileInputs.cache
+C:\Users\GENERAL STORES\source\repos\final_exam\final_exam\obj\Debug\net6.0-windows\final_exam.dll
+C:\Users\GENERAL STORES\source\repos\final_exam\final_exam\obj\Debug\net6.0-windows\refint\final_exam.dll
+C:\Users\GENERAL STORES\source\repos\final_exam\final_exam\obj\Debug\net6.0-windows\final_exam.pdb
+C:\Users\GENERAL STORES\source\repos\final_exam\final_exam\obj\Debug\net6.0-windows\final_exam.genruntimeconfig.cache
+C:\Users\GENERAL STORES\source\repos\final_exam\final_exam\obj\Debug\net6.0-windows\ref\final_exam.dll

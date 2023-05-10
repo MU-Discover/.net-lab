@@ -1,0 +1,30 @@
+C:\Users\student\Desktop\e#\lab14\lab14\bin\Debug\lab14.exe.config
+C:\Users\student\Desktop\e#\lab14\lab14\bin\Debug\lab14.exe
+C:\Users\student\Desktop\e#\lab14\lab14\bin\Debug\lab14.pdb
+C:\Users\student\Desktop\e#\lab14\lab14\obj\Debug\lab14.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\e#\lab14\lab14\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\e#\lab14\lab14\obj\Debug\App.g.cs
+C:\Users\student\Desktop\e#\lab14\lab14\obj\Debug\lab14_MarkupCompile.cache
+C:\Users\student\Desktop\e#\lab14\lab14\obj\Debug\lab14_MarkupCompile.lref
+C:\Users\student\Desktop\e#\lab14\lab14\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\e#\lab14\lab14\obj\Debug\lab14.g.resources
+C:\Users\student\Desktop\e#\lab14\lab14\obj\Debug\lab14.Properties.Resources.resources
+C:\Users\student\Desktop\e#\lab14\lab14\obj\Debug\lab14.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\e#\lab14\lab14\obj\Debug\lab14.exe
+C:\Users\student\Desktop\e#\lab14\lab14\obj\Debug\lab14.pdb
+C:\Users\GENERAL STORES\source\repos\lab14\lab14\bin\Debug\lab14.exe.config
+C:\Users\GENERAL STORES\source\repos\lab14\lab14\bin\Debug\lab14.exe
+C:\Users\GENERAL STORES\source\repos\lab14\lab14\bin\Debug\lab14.pdb
+C:\Users\GENERAL STORES\source\repos\lab14\lab14\obj\Debug\lab14.csproj.AssemblyReference.cache
+C:\Users\GENERAL STORES\source\repos\lab14\lab14\obj\Debug\lab14.csproj.SuggestedBindingRedirects.cache
+C:\Users\GENERAL STORES\source\repos\lab14\lab14\obj\Debug\MainWindow.g.cs
+C:\Users\GENERAL STORES\source\repos\lab14\lab14\obj\Debug\App.g.cs
+C:\Users\GENERAL STORES\source\repos\lab14\lab14\obj\Debug\lab14_MarkupCompile.cache
+C:\Users\GENERAL STORES\source\repos\lab14\lab14\obj\Debug\lab14_MarkupCompile.lref
+C:\Users\GENERAL STORES\source\repos\lab14\lab14\obj\Debug\MainWindow.baml
+C:\Users\GENERAL STORES\source\repos\lab14\lab14\obj\Debug\lab14.g.resources
+C:\Users\GENERAL STORES\source\repos\lab14\lab14\obj\Debug\lab14.Properties.Resources.resources
+C:\Users\GENERAL STORES\source\repos\lab14\lab14\obj\Debug\lab14.csproj.GenerateResource.cache
+C:\Users\GENERAL STORES\source\repos\lab14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+C:\Users\GENERAL STORES\source\repos\lab14\lab14\obj\Debug\lab14.exe
+C:\Users\GENERAL STORES\source\repos\lab14\lab14\obj\Debug\lab14.pdb

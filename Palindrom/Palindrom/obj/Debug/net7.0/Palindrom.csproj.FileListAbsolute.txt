@@ -1,0 +1,15 @@
+C:\Users\GENERAL STORES\source\repos\Palindrom\Palindrom\bin\Debug\net7.0\Palindrom.exe
+C:\Users\GENERAL STORES\source\repos\Palindrom\Palindrom\bin\Debug\net7.0\Palindrom.deps.json
+C:\Users\GENERAL STORES\source\repos\Palindrom\Palindrom\bin\Debug\net7.0\Palindrom.runtimeconfig.json
+C:\Users\GENERAL STORES\source\repos\Palindrom\Palindrom\bin\Debug\net7.0\Palindrom.dll
+C:\Users\GENERAL STORES\source\repos\Palindrom\Palindrom\bin\Debug\net7.0\Palindrom.pdb
+C:\Users\GENERAL STORES\source\repos\Palindrom\Palindrom\obj\Debug\net7.0\Palindrom.csproj.AssemblyReference.cache
+C:\Users\GENERAL STORES\source\repos\Palindrom\Palindrom\obj\Debug\net7.0\Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GENERAL STORES\source\repos\Palindrom\Palindrom\obj\Debug\net7.0\Palindrom.AssemblyInfoInputs.cache
+C:\Users\GENERAL STORES\source\repos\Palindrom\Palindrom\obj\Debug\net7.0\Palindrom.AssemblyInfo.cs
+C:\Users\GENERAL STORES\source\repos\Palindrom\Palindrom\obj\Debug\net7.0\Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\GENERAL STORES\source\repos\Palindrom\Palindrom\obj\Debug\net7.0\Palindrom.dll
+C:\Users\GENERAL STORES\source\repos\Palindrom\Palindrom\obj\Debug\net7.0\refint\Palindrom.dll
+C:\Users\GENERAL STORES\source\repos\Palindrom\Palindrom\obj\Debug\net7.0\Palindrom.pdb
+C:\Users\GENERAL STORES\source\repos\Palindrom\Palindrom\obj\Debug\net7.0\Palindrom.genruntimeconfig.cache
+C:\Users\GENERAL STORES\source\repos\Palindrom\Palindrom\obj\Debug\net7.0\ref\Palindrom.dll

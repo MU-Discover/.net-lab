@@ -1,0 +1,15 @@
+C:\Users\GENERAL STORES\source\repos\lab2\ConsoleApp1\bin\Debug\net7.0\Elective_bill.exe
+C:\Users\GENERAL STORES\source\repos\lab2\ConsoleApp1\bin\Debug\net7.0\Elective_bill.deps.json
+C:\Users\GENERAL STORES\source\repos\lab2\ConsoleApp1\bin\Debug\net7.0\Elective_bill.runtimeconfig.json
+C:\Users\GENERAL STORES\source\repos\lab2\ConsoleApp1\bin\Debug\net7.0\Elective_bill.dll
+C:\Users\GENERAL STORES\source\repos\lab2\ConsoleApp1\bin\Debug\net7.0\Elective_bill.pdb
+C:\Users\GENERAL STORES\source\repos\lab2\ConsoleApp1\obj\Debug\net7.0\Elective_bill.csproj.AssemblyReference.cache
+C:\Users\GENERAL STORES\source\repos\lab2\ConsoleApp1\obj\Debug\net7.0\Elective_bill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GENERAL STORES\source\repos\lab2\ConsoleApp1\obj\Debug\net7.0\Elective_bill.AssemblyInfoInputs.cache
+C:\Users\GENERAL STORES\source\repos\lab2\ConsoleApp1\obj\Debug\net7.0\Elective_bill.AssemblyInfo.cs
+C:\Users\GENERAL STORES\source\repos\lab2\ConsoleApp1\obj\Debug\net7.0\Elective_bill.csproj.CoreCompileInputs.cache
+C:\Users\GENERAL STORES\source\repos\lab2\ConsoleApp1\obj\Debug\net7.0\Elective_bill.dll
+C:\Users\GENERAL STORES\source\repos\lab2\ConsoleApp1\obj\Debug\net7.0\refint\Elective_bill.dll
+C:\Users\GENERAL STORES\source\repos\lab2\ConsoleApp1\obj\Debug\net7.0\Elective_bill.pdb
+C:\Users\GENERAL STORES\source\repos\lab2\ConsoleApp1\obj\Debug\net7.0\Elective_bill.genruntimeconfig.cache
+C:\Users\GENERAL STORES\source\repos\lab2\ConsoleApp1\obj\Debug\net7.0\ref\Elective_bill.dll

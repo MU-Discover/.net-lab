@@ -1,0 +1,15 @@
+C:\Users\GENERAL STORES\source\repos\Pratical_3\Inheritance\obj\Debug\net7.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\GENERAL STORES\source\repos\Pratical_3\Inheritance\obj\Debug\net7.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GENERAL STORES\source\repos\Pratical_3\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\GENERAL STORES\source\repos\Pratical_3\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfo.cs
+C:\Users\GENERAL STORES\source\repos\Pratical_3\Inheritance\obj\Debug\net7.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\GENERAL STORES\source\repos\Pratical_3\Inheritance\bin\Debug\net7.0\Inheritance.exe
+C:\Users\GENERAL STORES\source\repos\Pratical_3\Inheritance\bin\Debug\net7.0\Inheritance.deps.json
+C:\Users\GENERAL STORES\source\repos\Pratical_3\Inheritance\bin\Debug\net7.0\Inheritance.runtimeconfig.json
+C:\Users\GENERAL STORES\source\repos\Pratical_3\Inheritance\bin\Debug\net7.0\Inheritance.dll
+C:\Users\GENERAL STORES\source\repos\Pratical_3\Inheritance\bin\Debug\net7.0\Inheritance.pdb
+C:\Users\GENERAL STORES\source\repos\Pratical_3\Inheritance\obj\Debug\net7.0\Inheritance.dll
+C:\Users\GENERAL STORES\source\repos\Pratical_3\Inheritance\obj\Debug\net7.0\refint\Inheritance.dll
+C:\Users\GENERAL STORES\source\repos\Pratical_3\Inheritance\obj\Debug\net7.0\Inheritance.pdb
+C:\Users\GENERAL STORES\source\repos\Pratical_3\Inheritance\obj\Debug\net7.0\Inheritance.genruntimeconfig.cache
+C:\Users\GENERAL STORES\source\repos\Pratical_3\Inheritance\obj\Debug\net7.0\ref\Inheritance.dll

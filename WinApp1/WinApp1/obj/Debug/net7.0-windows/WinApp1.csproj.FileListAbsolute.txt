@@ -1,0 +1,17 @@
+C:\Users\GENERAL STORES\source\repos\WinApp1\WinApp1\bin\Debug\net7.0-windows\WinApp1.exe
+C:\Users\GENERAL STORES\source\repos\WinApp1\WinApp1\bin\Debug\net7.0-windows\WinApp1.deps.json
+C:\Users\GENERAL STORES\source\repos\WinApp1\WinApp1\bin\Debug\net7.0-windows\WinApp1.runtimeconfig.json
+C:\Users\GENERAL STORES\source\repos\WinApp1\WinApp1\bin\Debug\net7.0-windows\WinApp1.dll
+C:\Users\GENERAL STORES\source\repos\WinApp1\WinApp1\bin\Debug\net7.0-windows\WinApp1.pdb
+C:\Users\GENERAL STORES\source\repos\WinApp1\WinApp1\obj\Debug\net7.0-windows\WinApp1.csproj.AssemblyReference.cache
+C:\Users\GENERAL STORES\source\repos\WinApp1\WinApp1\obj\Debug\net7.0-windows\WinApp1.Form1.resources
+C:\Users\GENERAL STORES\source\repos\WinApp1\WinApp1\obj\Debug\net7.0-windows\WinApp1.csproj.GenerateResource.cache
+C:\Users\GENERAL STORES\source\repos\WinApp1\WinApp1\obj\Debug\net7.0-windows\WinApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GENERAL STORES\source\repos\WinApp1\WinApp1\obj\Debug\net7.0-windows\WinApp1.AssemblyInfoInputs.cache
+C:\Users\GENERAL STORES\source\repos\WinApp1\WinApp1\obj\Debug\net7.0-windows\WinApp1.AssemblyInfo.cs
+C:\Users\GENERAL STORES\source\repos\WinApp1\WinApp1\obj\Debug\net7.0-windows\WinApp1.csproj.CoreCompileInputs.cache
+C:\Users\GENERAL STORES\source\repos\WinApp1\WinApp1\obj\Debug\net7.0-windows\WinApp1.dll
+C:\Users\GENERAL STORES\source\repos\WinApp1\WinApp1\obj\Debug\net7.0-windows\refint\WinApp1.dll
+C:\Users\GENERAL STORES\source\repos\WinApp1\WinApp1\obj\Debug\net7.0-windows\WinApp1.pdb
+C:\Users\GENERAL STORES\source\repos\WinApp1\WinApp1\obj\Debug\net7.0-windows\WinApp1.genruntimeconfig.cache
+C:\Users\GENERAL STORES\source\repos\WinApp1\WinApp1\obj\Debug\net7.0-windows\ref\WinApp1.dll
